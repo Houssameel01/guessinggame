@@ -1,5 +1,4 @@
-# Guessing Game
-This file was created manually as an alternative to make.
-Date and Time: Sun Dec  1 02:51:13     2024
-Number of lines in guessinggame.sh: 22
-# guessinggame.sh
+# Peer-graded Assignment: Bash, Make, Git, and GitHub
+## Guessing game
+**Last modified on:** 2024-12-01 03:13:29 PM  
+**Number of lines in code:** 22
